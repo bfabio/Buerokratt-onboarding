@@ -1,0 +1,128 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: Bürokratt
+url: 'https://github.com/buerokratt/Buerokratt-onboarding'
+roadmap: 'https://www.kratid.ee/en/burokratt'
+releaseDate: '2025-12-08'
+softwareVersion: '3.0'
+developmentStatus: stable
+softwareType: standalone/web
+platforms:
+  - web
+categories:
+  - customer-service-and-support
+  - instant-messaging
+  - help-desk
+logo: >-
+  https://github.com/buerokratt/Buerokratt-Chatbot/blob/main/GUI/src/assets/logo.svg
+maintenance:
+  type: internal
+legal:
+  license: MIT
+  repoOwner: Rasmus Eimla
+intendedAudience:
+  countries:
+    - ee
+  scope:
+    - agriculture
+    - culture
+    - defence
+    - education
+    - emergency-services
+    - employment
+    - environment
+    - foreign-affairs
+    - government
+    - healthcare
+    - justice
+    - local-authorities
+    - society
+    - transportation
+    - science-and-technology
+    - security
+    - energy
+    - welfare
+    - finance-and-economic-development
+    - infrastructures
+    - manufacturing
+    - research
+    - sport
+    - tourism
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - ee
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: true
+    misureMinimeSicurezza: true
+  piattaforme:
+    cie: true
+description:
+  it:
+    documentation: 'https://github.com/buerokratt/Buerokratt-onboarding'
+    longDescription: >
+      **What is Bürokratt today? **
+
+
+      Bürokratt is a state-created, AI-based digital assistant that helps
+      institutions deliver modern and efficient customer service. Today,
+      Bürokratt offers institutions the ability to use large language models
+      (LLMs) to understand human-language input and respond to questions
+      quickly, referentially, and around the clock.
+
+
+      ​
+
+
+      **Who is Bürokratt for?**
+
+
+      Bürokratt is intended for people who want to communicate with the
+      government. It is designed for public sector institutions that wish to
+      offer user-friendly, efficient, and up-to-date customer service. It meets
+      the needs of both local governments and national agencies — including
+      managing information requests, automating recurring questions, and
+      providing customer support.
+
+
+      ​
+
+
+      **Vision of Bürokratt**
+
+
+      The vision for Bürokratt is to give people the opportunity to interact
+      with the state as easily as with a friend — in natural language, at any
+      time, and from any device. To achieve this, the chatbots deployed to
+      clients will form a unified network that allows people to find answers,
+      solve problems, and consume digital services directly from the chat
+      window, without navigating complex portals or filling out forms.
+
+
+      ​
+
+
+      As this vision is realized, institutions will be able to integrate virtual
+      assistants into the network — independent AI agents that cooperate with
+      each other, which, based on a person’s requests, find necessary
+      information and carry out required actions (e.g. submitting an inquiry,
+      application, or booking). In the future, these assistants will be able to
+      offer people seamless and personalized service.  
+    shortDescription: >-
+      Bürokratt enables citizens or users to use public and information services
+      with virtual assistants through chat interface.
+    features:
+      - chatbot
+      - LLM
+      - free of charge
+      - available 24/7
+      - RAG
+      - anonymizer
+      - chat
+      - redirecting chat to a customer agent representitive
+    genericName: Bürokratt
